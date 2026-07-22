@@ -116,7 +116,8 @@ class _RegistroUsuarioPageState extends State<RegistroUsuarioPage> {
                 radius: 80,backgroundColor: const Color.fromARGB(255, 241, 90, 140),
                 child: CircleAvatar(
                   radius: 70,
-                  backgroundImage: NetworkImage("https://jujoxqwxchkgzyqgbgad.supabase.co/storage/v1/object/sign/proyecto%20x/logo%20en%20PDF%203_page-0001.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtl eV83OTFkYzBiNi1jY2E1LTQwZmItOWVlOS0xNWY1YTMyZDM4OTEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwcm95ZWN0byB4L2xvZ28gZW4gUERGIDNfcGFnZS0wMDAxLmpwZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3ODQ3MjczNDQsImV4cCI6MTgxNjI2MzM0NH0.4GUxTEuPLlEb_2kdER4ec3Dp8RWwu0CYdIHAMY4nXjE"),),),
+                  backgroundImage: NetworkImage("https://jujoxqwxchkgzyqgbgad.supabase.co/storage/v1/object/sign/proyecto%20x/logo%20en%20PDF%203_page-0001.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83OTFkYzBiNi1jY2E1LTQwZmItOWVlOS0xNWY1YTMyZDM4OTEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwcm95ZWN0byB4L2xvZ28gZW4gUERGIDNfcGFnZS0wMDAxLmpwZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3ODQ3Mjk1ODIsImV4cCI6MTgxNjI2NTU4Mn0.FSDeIAImwjXebfDj9VwEcfYc6-R28ouK3fBelaVJAPIh"),),),
+                  
             ),
               //------------------------------------------------
               // Campo ID
